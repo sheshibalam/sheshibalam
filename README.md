@@ -1,8 +1,9 @@
-![logo]()
+![logo](https://github.com/sheshibalam/sheshibalam/blob/main/sasi.jpg)
 <h1 align="center">Hi 👋, I'm Sasi Vardhan Balam</h1>
 <h3 align="center">A passionate frontend developer from India!</h3>
 
 <p align="left"> <img src="https://github.com/sheshibalam/sheshibalam/blob/main/computer.gif" alt="coding" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=neeluruaswani&label=Profile%20views&color=0e75b6&style=flat" alt="Sasi Vardhan Balam"/></p>
 
 - 🔭 I’m currently working on **Food Ordering System**
 
