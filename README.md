@@ -1,5 +1,5 @@
 ![logo](https://github.com/sheshibalam/sheshibalam/blob/main/sasi.jpg)
-<h1 align="center">Hi 👋, I'm Sasi Vardhan Balam</h1>
+<h1 align="center">Hi 👋, I'm Sasi Balam</h1>
 <h3 align="center">A passionate frontend developer from India!</h3>
 
 <p align="left"> <img src="https://github.com/sheshibalam/sheshibalam/blob/main/computer.gif" alt="coding" /> </p>
